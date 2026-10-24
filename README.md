@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=AnubhavSingh0708)
-![trophy](https://github-profile-trophy.vercel.app/?username=anubhavsingh0708)
+![trophy](https://github-trophies.vercel.app/?username=anubhavsingh0708)
 ![Anubhav singh](/AS.jpeg)
 # Anubhav Singh
 
